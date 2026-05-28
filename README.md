@@ -15,22 +15,22 @@
 
 <div align="center">
   <a href="https://yixuanhuang04.github.io" target="_blank">
-    <img src="./files/icon/favicon.ico" height="32px">
+    <img src="./files/icon/favicon.ico" height="32px"style="display:inline-block;">
   </a>&nbsp;
 
   <a href="mailto:yixhuang@umich.edu" target="_blank">
-    <img src="./files/icon/email.png" height="32px">
+    <img src="./files/icon/email.png" height="32px"style="display:inline-block;">
   </a>&nbsp;
 
   <a href="https://github.com/yixuanhuang04" target="_blank">
-    <img src="./files/icon/github.jpg" height="32px">
+    <img src="./files/icon/github.jpg" height="32px"style="display:inline-block;">
   </a>&nbsp;
 
   <a href="https://x.com/yixuanhuang04" target="_blank">
-    <img src="./files/icon/twitter.png" height="32px">
+    <img src="./files/icon/twitter.png" height="32px"style="display:inline-block;">
   </a>&nbsp;
 
   <a href="https://www.linkedin.com/in/yixuanhuang04/" target="_blank">
-    <img src="./files/icon/linkedin.png" height="32px">
+    <img src="./files/icon/linkedin.png" height="32px"style="display:inline-block;">
   </a>
 </div>
