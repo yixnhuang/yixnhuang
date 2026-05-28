@@ -9,7 +9,8 @@
 </h1>
 
 <p>
-  I'm an incoming M.S. student in Robotics at the University of Michigan. Interested in robotics, multi-robot systems, task and motion planning, robotic manipulation, and embodied AI. <br>
+  I'm an incoming M.S. student in Robotics at the University of Michigan.
+
   I use this GitHub to share research projects, open-source tools, robotics experiments, and other interesting side projects.
 </p>
 
@@ -32,9 +33,5 @@
 
   <a href="https://www.linkedin.com/in/yixuanhuang04/" target="_blank">
     <img src="./files/icon/LinkedIn.png" height="30px" style="margin-bottom:-3px">
-  </a>&nbsp;
-
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fyixuanhuang.com">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fyixuanhuang.com&labelColor=%232ccce4&countColor=%230158f9" />
   </a>
 </p>
