@@ -13,24 +13,10 @@
   I use this GitHub to share research projects, open-source tools, robotics experiments, and other interesting side projects.
 </p>
 
-<div align="center">
-  <a href="https://yixuanhuang04.github.io" target="_blank" style="all:unset; cursor:pointer;">
-    <img src="./files/icon/favicon.ico" height="32px">
-  </a>&nbsp;
-
-  <a href="mailto:yixhuang@umich.edu" target="_blank" style="all:unset; cursor:pointer;">
-    <img src="./files/icon/email.png" height="32px">
-  </a>&nbsp;
-
-  <a href="https://github.com/yixuanhuang04" target="_blank" style="all:unset; cursor:pointer;">
-    <img src="./files/icon/github.jpg" height="32px">
-  </a>&nbsp;
-
-  <a href="https://x.com/yixuanhuang04" target="_blank" style="all:unset; cursor:pointer;">
-    <img src="./files/icon/twitter.png" height="32px">
-  </a>&nbsp;
-
-  <a href="https://www.linkedin.com/in/yixuanhuang04/" target="_blank" style="all:unset; cursor:pointer;">
-    <img src="./files/icon/linkedin.png" height="32px">
-  </a>
-</div>
+<p align="center">
+  <a href="https://yixuanhuang04.github.io" target="_blank">Homepage</a> /
+  <a href="mailto:yixhuang@umich.edu" target="_blank">Email</a> /
+  <a href="https://github.com/yixuanhuang04" target="_blank">GitHub</a> /
+  <a href="https://x.com/yixuanhuang04" target="_blank">Twitter</a> /
+  <a href="https://www.linkedin.com/in/yixuanhuang04/" target="_blank">LinkedIn</a>
+</p>
