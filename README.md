@@ -13,7 +13,7 @@
   I use this GitHub to share research projects, open-source tools, robotics experiments, and other interesting side projects.
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://yixuanhuang04.github.io" target="_blank">
     <img src="./files/icon/favicon.ico" height="32px">
   </a>&nbsp;
@@ -33,4 +33,4 @@
   <a href="https://www.linkedin.com/in/yixuanhuang04/" target="_blank">
     <img src="./files/icon/linkedin.png" height="32px">
   </a>
-</p>
+</div>
