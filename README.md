@@ -14,24 +14,24 @@
   I use this GitHub to share research projects, open-source tools, robotics experiments, and other interesting side projects.
 </p>
 
-<p align="center" style="margin-top: -10px;">
+<p align="center">
   <a href="https://yixuanhuang04.github.io" target="_blank">
-    <img src="./files/icon/favicon.ico" height="32px" style="margin-bottom:-4px">
+    <img src="./files/icon/favicon.ico" height="32px">
   </a>&nbsp;
 
   <a href="mailto:yixhuang@umich.edu" target="_blank">
-    <img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px">
+    <img src="./files/icon/email.png" height="32px">
   </a>&nbsp;
 
   <a href="https://github.com/yixuanhuang04" target="_blank">
-    <img src="./files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px">
+    <img src="./files/icon/github.jpg" height="32px">
   </a>&nbsp;
 
   <a href="https://x.com/yixuanhuang04" target="_blank">
-    <img src="./files/icon/twitter.png" height="30px" style="margin-bottom:-3px">
+    <img src="./files/icon/twitter.png" height="32px">
   </a>&nbsp;
 
   <a href="https://www.linkedin.com/in/yixuanhuang04/" target="_blank">
-    <img src="./files/icon/LinkedIn.png" height="30px" style="margin-bottom:-3px">
+    <img src="./files/icon/linkedin.png" height="32px">
   </a>
 </p>
