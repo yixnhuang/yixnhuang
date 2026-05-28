@@ -2,9 +2,8 @@
   Hi, I'm <a href="https://yixuanhuang04.github.io" target="_blank">Yixuan Huang</a> <br>
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yixuanhuang04">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/yixuanhuang04">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yixuanhuang04"><br>
-  <a href="https://wakatime.com/@018db2ab-1b66-4cec-8ef9-37c188037ac0">
-    <img src="https://wakatime.com/badge/user/018db2ab-1b66-4cec-8ef9-37c188037ac0.svg" alt="Total time coded since Aug 12 2023" />
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yixuanhuang04">
+  <a href="https://wakatime.com/@018db2ab-1b66-4cec-8ef9-37c188037ac0"><img src="https://wakatime.com/badge/user/018db2ab-1b66-4cec-8ef9-37c188037ac0.svg" alt="Total time coded since Aug 12 2023" />
   </a>
 </h1>
 
