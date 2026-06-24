@@ -14,9 +14,32 @@
 </p>
 
 <p align="center">
-  <a href="https://yixuanhuang04.github.io" target="_blank">Homepage</a> /
+  <a href="https://yixuanhuang04.github.io/" target="_blank">Homepage</a> /
   <a href="mailto:yixhuang@umich.edu" target="_blank">Email</a> /
   <a href="https://github.com/yixuanhuang04" target="_blank">GitHub</a> /
   <a href="https://x.com/yixuanhuang04" target="_blank">Twitter</a> /
-  <a href="https://www.linkedin.com/in/yixuanhuang04/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/yixuanhuang04/" target="_blank">LinkedIn</a> /
+  <a href="https://yixuanhuang04.github.io/contact/" target="_blank">Contact</a>
+</p>
+
+---
+
+<p align="center">
+  © 2024–2026 Yixuan Huang. All rights reserved.
+</p>
+
+<p align="center">
+  This GitHub profile README and its personal content are for viewing only and are not provided
+  as a template. Personal materials may not be copied, reused, scraped, redistributed, used for
+  impersonation, or used for dataset creation, machine learning, or AI training purposes without
+  permission.
+</p>
+
+<p align="center">
+  Open-source repositories are governed by their own licenses. If no license is provided,
+  all rights are reserved by default.
+</p>
+
+<p align="center">
+  <a href="https://yixuanhuang04.github.io/copyright/" target="_blank">Copyright & Usage Notice</a>
 </p>
